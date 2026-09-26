@@ -1,0 +1,14 @@
+{
+  "ELY-2026": {
+    "id": "elyxus-craft-3",
+    "name": "Elyxus Craft 3",
+    "mc_version": "1.20.1",
+    "loader": "forge",
+    "loader_version": "47.3.22",
+    "version_id": "1.20.1-forge-47.3.22",
+    "date": "25 SEP - 20:00",
+    "description": "Gran evento de supervivencia y minijuegos en Elyxus Craft.",
+    "banner_url": "https://tuservidor.com/imagenes/elyxus_banner.png",
+    "download_url": "https://i.postimg.cc/kG1B4DH5/Captura-de-pantalla-(1).png"
+  }
+}
