@@ -33,6 +33,8 @@
     "date": "Sin fecha",
     "description": "Codigo unico para testers/builders. NO PROPORCIONAR A JUGADORES.",
     "banner_url": "https://www.dropbox.com/scl/fi/zp2t1qzd3mebapilttfk3/trivia.png?rlkey=a20420v51vc95x9sgo98lp7nj&st=h1jt7m00&dl=1",
-    "download_url": "https://www.dropbox.com/scl/fi/2mknlkvx8y08zgmjzbamt/trivia.zip?rlkey=rjoda2hbyoiefe6i4to9rl3zq&st=faveb6v2&dl=1"
+    "download_url": "https://www.dropbox.com/scl/fi/2mknlkvx8y08zgmjzbamt/trivia.zip?rlkey=rjoda2hbyoiefe6i4to9rl3zq&st=faveb6v2&dl=1,
+    "icono": "https://www.dropbox.com/scl/fi/yluds0p8cuff1xxavpzoy/trivia_icono.png?rlkey=mtgfz6h37wr9xez72gaipj09u&st=5vz1td5d&dl=1",
+    "fondo": "https://enlace-a-la-imagen-del-fondo"
   }
 }
