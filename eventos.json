@@ -24,9 +24,9 @@
     "banner_url": "https://www.dropbox.com/scl/fi/zm68bqu84t77s1424mxms/002.png?rlkey=cwsm3rl89rr787gyonmtgpek6&st=advgf42m&dl=1",
     "download_url": "https://www.dropbox.com/scl/fi/44no8nc8lmvobwclev2iv/002.zip?rlkey=c0y4vx8b3n6normx8buvwy7x8&st=urukoh1q&dl=1"
   },
-  "854-hfd-903-ijgs-34j-893": {
+  "854-hfd-903": {
     "id": "trivia",
-    "name": "Trivia EventsMC | Builders/Testers V6",
+    "name": "Trivia EventsMC | Builders/Testers V6.5",
     "mc_version": "1.20.1",
     "loader": "forge",
     "loader_version": "47.4.20",
@@ -34,7 +34,7 @@
     "date": "Sin fecha",
     "description": "Codigo unico para testers/builders. NO PROPORCIONAR A JUGADORES.",
     "banner_url": "https://www.dropbox.com/scl/fi/zp2t1qzd3mebapilttfk3/trivia.png?rlkey=a20420v51vc95x9sgo98lp7nj&st=h1jt7m00&dl=1",
-    "download_url": "https://www.dropbox.com/scl/fi/2mknlkvx8y08zgmjzbamt/trivia.zip?rlkey=rjoda2hbyoiefe6i4to9rl3zq&st=2deb1hdr&dl=1",
+    "download_url": "https://www.dropbox.com/scl/fi/2mknlkvx8y08zgmjzbamt/trivia.zip?rlkey=rjoda2hbyoiefe6i4to9rl3zq&st=zhp9dql1&dl=1",
     "icono": "https://www.dropbox.com/scl/fi/yluds0p8cuff1xxavpzoy/trivia_icono.png?rlkey=mtgfz6h37wr9xez72gaipj09u&st=5vz1td5d&dl=1",
     "fondo": "https://www.dropbox.com/scl/fi/zp2t1qzd3mebapilttfk3/trivia.png?rlkey=a20420v51vc95x9sgo98lp7nj&st=h1jt7m00&dl=1"
   }
