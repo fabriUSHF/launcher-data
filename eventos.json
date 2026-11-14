@@ -1,4 +1,3 @@
-
 {
   "W8X-3M9-W5P": {
     "id": "001",
@@ -50,9 +49,8 @@
     "date": "14/11/26",
     "description": "Testeo de los principales juegos de los Elyxus Craft Games.",
     "banner_url": "https://www.dropbox.com/scl/fi/xmmr40b05ul6tgqi6zl7t/betatest1.png?rlkey=w6ifcsbk2q9sus0r02wg85m88&st=yyuayyol&dl=1",
-    "download_url": "https://www.dropbox.com/scl/fi/trj0lb8av61xdpunt8jus/betatest1.zip?rlkey=cje766zjogpyhq4yusqzpdh09&st=yq2h5f4x&dl=0",
+    "download_url": "https://www.dropbox.com/scl/fi/trj0lb8av61xdpunt8jus/betatest1.zip?rlkey=cje766zjogpyhq4yusqzpdh09&st=yq2h5f4x&dl=1",
     "icono": "https://www.dropbox.com/scl/fi/mc27hiyluq9byuhpox3ia/3.png?rlkey=djtlm5mt1f3bvfaa4v6va6syn&st=j2glf00u&dl=1",
     "fondo": "https://www.dropbox.com/scl/fi/xmmr40b05ul6tgqi6zl7t/betatest1.png?rlkey=w6ifcsbk2q9sus0r02wg85m88&st=yyuayyol&dl=1"
   }
-
-
+}
