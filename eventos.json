@@ -39,6 +39,20 @@
     "download_url": "https://www.dropbox.com/scl/fi/2mknlkvx8y08zgmjzbamt/trivia.zip?rlkey=rjoda2hbyoiefe6i4to9rl3zq&st=zhp9dql1&dl=1",
     "icono": "https://www.dropbox.com/scl/fi/yluds0p8cuff1xxavpzoy/trivia_icono.png?rlkey=mtgfz6h37wr9xez72gaipj09u&st=5vz1td5d&dl=1",
     "fondo": "https://www.dropbox.com/scl/fi/zp2t1qzd3mebapilttfk3/trivia.png?rlkey=a20420v51vc95x9sgo98lp7nj&st=h1jt7m00&dl=1"
-  }
+  },
+  "W7X-3M9-X5P": {
+    "id": "001",
+    "name": "Elyxus Craft Beta Test",
+    "mc_version": "1.20.1",
+    "loader": "forge",
+    "loader_version": "47.4.20",
+    "version_id": "1.20.1-forge-47.4.20",
+    "date": "14/11/26",
+    "description": "Testeo de los principales juegos de los Elyxus Craft Games.",
+    "banner_url": "https://www.dropbox.com/scl/fi/xmmr40b05ul6tgqi6zl7t/betatest1.png?rlkey=w6ifcsbk2q9sus0r02wg85m88&st=yyuayyol&dl=1",
+    "download_url": "https://www.dropbox.com/scl/fi/trj0lb8av61xdpunt8jus/betatest1.zip?rlkey=cje766zjogpyhq4yusqzpdh09&st=yq2h5f4x&dl=0",
+    "icono": "https://www.dropbox.com/scl/fi/mc27hiyluq9byuhpox3ia/3.png?rlkey=djtlm5mt1f3bvfaa4v6va6syn&st=j2glf00u&dl=1",
+    "fondo": "https://www.dropbox.com/scl/fi/xmmr40b05ul6tgqi6zl7t/betatest1.png?rlkey=w6ifcsbk2q9sus0r02wg85m88&st=yyuayyol&dl=1"
+  },
 }
 
